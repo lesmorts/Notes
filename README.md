@@ -2,7 +2,7 @@
 includes some of the notes I write on Typora
 ### JS
 
-- [JS初识](main/Notes/1JS)
+- [JS初识](1JS.md)
 - [ES6简要](2ES6.md)
 - [正则表达式](3正则表达式(使用JS).md)
 - [基本数据结构](4JS基本数据结构.md)

@@ -11,7 +11,7 @@ includes some of the notes I write on Typora
 ### Vue
 
 - [Vue3简要](VUE3简要.md)
-- [Vue3再学习](Vue3学习.md)
+- [Vue3再学习](Vue3再学习.md)
 
 ### Markdown
 

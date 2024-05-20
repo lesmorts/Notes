@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T06:05:40.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="2aHaj0FP3z2tljaJmh-u" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T06:18:02.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="vodl1QsScOV-GkG1DM2l" version="24.4.4" type="github">
   <diagram name="第 1 页" id="4D73sQxTLWBu-hPYvA0C">
     <mxGraphModel dx="908" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxRectangle x="114" y="80" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z6pAk5ewVCMAX08WyuHA-4" value="Dataset" style="swimlane;startSize=20;horizontal=0;html=1;swimlaneFillColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="Z6pAk5ewVCMAX08WyuHA-3" vertex="1">
+        <mxCell id="Z6pAk5ewVCMAX08WyuHA-4" value="数据集" style="swimlane;startSize=20;horizontal=0;html=1;swimlaneFillColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="Z6pAk5ewVCMAX08WyuHA-3" vertex="1">
           <mxGeometry y="20" width="750" height="320" as="geometry">
             <mxRectangle y="20" width="580" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -23,13 +23,13 @@
         <mxCell id="Z6pAk5ewVCMAX08WyuHA-9" value="" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" parent="Z6pAk5ewVCMAX08WyuHA-4" vertex="1">
           <mxGeometry x="322.13" y="40" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z6pAk5ewVCMAX08WyuHA-10" value="Hydroclimatic Variable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Z6pAk5ewVCMAX08WyuHA-4" vertex="1">
+        <mxCell id="Z6pAk5ewVCMAX08WyuHA-10" value="水文气候变量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Z6pAk5ewVCMAX08WyuHA-4" vertex="1">
           <mxGeometry x="274.13" y="10" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z6pAk5ewVCMAX08WyuHA-16" value="" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;shadow=1;" parent="Z6pAk5ewVCMAX08WyuHA-4" vertex="1">
           <mxGeometry x="530" y="40" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z6pAk5ewVCMAX08WyuHA-17" value="Drought Index" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Z6pAk5ewVCMAX08WyuHA-4" vertex="1">
+        <mxCell id="Z6pAk5ewVCMAX08WyuHA-17" value="干旱指数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Z6pAk5ewVCMAX08WyuHA-4" vertex="1">
           <mxGeometry x="515" y="10" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z6pAk5ewVCMAX08WyuHA-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.66;dx=27.07;direction=south;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="Z6pAk5ewVCMAX08WyuHA-4" vertex="1">
@@ -56,10 +56,10 @@
         <mxCell id="Z6pAk5ewVCMAX08WyuHA-31" value="" style="rounded=0;whiteSpace=wrap;html=1;arcSize=15;glass=0;dashed=1;dashPattern=8 8;shadow=1;" parent="Z6pAk5ewVCMAX08WyuHA-4" vertex="1">
           <mxGeometry x="260" y="170" width="184.25" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Z6pAk5ewVCMAX08WyuHA-32" value="P" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#fee59a;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;shadow=1;fontColor=default;" parent="Z6pAk5ewVCMAX08WyuHA-4" vertex="1">
+        <mxCell id="Z6pAk5ewVCMAX08WyuHA-32" value="降水" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#fee59a;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;shadow=1;fontColor=default;" parent="Z6pAk5ewVCMAX08WyuHA-4" vertex="1">
           <mxGeometry x="278.12" y="190" width="70" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Z6pAk5ewVCMAX08WyuHA-33" value="T" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#fee59a;strokeColor=#d6b656;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="Z6pAk5ewVCMAX08WyuHA-4" vertex="1">
+        <mxCell id="Z6pAk5ewVCMAX08WyuHA-33" value="气温" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#fee59a;strokeColor=#d6b656;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="Z6pAk5ewVCMAX08WyuHA-4" vertex="1">
           <mxGeometry x="362.12" y="190" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Z6pAk5ewVCMAX08WyuHA-34" value="SMS" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#fee59a;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;shadow=1;" parent="Z6pAk5ewVCMAX08WyuHA-4" vertex="1">
@@ -74,10 +74,10 @@
         <mxCell id="Z6pAk5ewVCMAX08WyuHA-38" value="SPEI" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#fee59a;fillColor=#fad7ac;strokeColor=#b46504;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;shadow=1;" parent="Z6pAk5ewVCMAX08WyuHA-4" vertex="1">
           <mxGeometry x="565" y="217.5" width="70" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Z6pAk5ewVCMAX08WyuHA-39" value="Reconstruction &amp;amp; Indicators" style="swimlane;startSize=20;horizontal=0;html=1;swimlaneFillColor=none;fillColor=#b1ddf0;strokeColor=#10739e;" parent="Z6pAk5ewVCMAX08WyuHA-3" vertex="1">
+        <mxCell id="Z6pAk5ewVCMAX08WyuHA-39" value="重构与指标" style="swimlane;startSize=20;horizontal=0;html=1;swimlaneFillColor=none;fillColor=#b1ddf0;strokeColor=#10739e;" parent="Z6pAk5ewVCMAX08WyuHA-3" vertex="1">
           <mxGeometry y="340" width="750" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="Z6pAk5ewVCMAX08WyuHA-6" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#c0d0f7;strokeColor=#56517e;" parent="Z6pAk5ewVCMAX08WyuHA-3" vertex="1">
+        <mxCell id="Z6pAk5ewVCMAX08WyuHA-6" value="结果与讨论" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#c0d0f7;strokeColor=#56517e;" parent="Z6pAk5ewVCMAX08WyuHA-3" vertex="1">
           <mxGeometry y="630" width="750" height="120" as="geometry" />
         </mxCell>
       </root>

@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T14:04:19.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="UVp-K04i9eenuPFZ9c3m" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T08:57:19.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="1BtH5V0f6sEpHTeYb9Zd" version="24.5.5" type="github">
   <diagram name="第 1 页" id="tr9MtNZkAbBFNGbyeL2_">
-    <mxGraphModel dx="1297" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="1280" math="0" shadow="0">
+    <mxGraphModel dx="1135" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="1280" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZyRGpIHOSIbv2tQFG93P-1" value="干旱检测" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="950" y="360" width="370" height="610" as="geometry" />
+          <mxGeometry x="910" y="360" width="240" height="610" as="geometry" />
         </mxCell>
         <mxCell id="ZyRGpIHOSIbv2tQFG93P-2" value="验证" style="rounded=1;whiteSpace=wrap;html=1;arcSize=36;shadow=1;dashed=1;dashPattern=8 8;strokeColor=#b46504;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=#fad7ac;gradientColor=#fee59a;direction=east;" parent="ZyRGpIHOSIbv2tQFG93P-1" vertex="1">
           <mxGeometry x="25" y="80" width="90" height="50" as="geometry" />
@@ -33,9 +33,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZyRGpIHOSIbv2tQFG93P-8" value="WSDI" style="ellipse;whiteSpace=wrap;html=1;fillColor=#c0d0f7;strokeColor=#56517e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;shadow=1;fontColor=default;fontStyle=0;direction=east;" parent="ZyRGpIHOSIbv2tQFG93P-1" vertex="1">
-          <mxGeometry x="22.5" y="197.5" width="95" height="60" as="geometry" />
+          <mxGeometry x="22.5" y="230" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZyRGpIHOSIbv2tQFG93P-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="ZyRGpIHOSIbv2tQFG93P-1" source="ZyRGpIHOSIbv2tQFG93P-11" target="ZyRGpIHOSIbv2tQFG93P-13" edge="1">
+        <mxCell id="ZyRGpIHOSIbv2tQFG93P-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" parent="ZyRGpIHOSIbv2tQFG93P-1" source="ZyRGpIHOSIbv2tQFG93P-11" target="ZyRGpIHOSIbv2tQFG93P-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZyRGpIHOSIbv2tQFG93P-11" value="干旱识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;shadow=1;fontStyle=0;dashed=1;dashPattern=8 8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;gradientColor=#fee59a;direction=east;" parent="ZyRGpIHOSIbv2tQFG93P-1" vertex="1">
@@ -45,19 +45,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZyRGpIHOSIbv2tQFG93P-13" value="干旱量化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;shadow=1;fontStyle=0;dashed=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;gradientColor=#fee59a;dashPattern=8 8;direction=east;" parent="ZyRGpIHOSIbv2tQFG93P-1" vertex="1">
-          <mxGeometry x="260" y="380" width="90" height="40" as="geometry" />
+          <mxGeometry x="140" y="310" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZyRGpIHOSIbv2tQFG93P-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" parent="ZyRGpIHOSIbv2tQFG93P-1" source="ZyRGpIHOSIbv2tQFG93P-15" target="ZyRGpIHOSIbv2tQFG93P-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZyRGpIHOSIbv2tQFG93P-15" value="干旱原因" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;shadow=1;fontStyle=0;dashed=1;gradientColor=#fee59a;dashPattern=8 8;direction=east;fontSize=16;" parent="ZyRGpIHOSIbv2tQFG93P-1" vertex="1">
-          <mxGeometry x="260" y="240" width="90" height="40" as="geometry" />
+          <mxGeometry x="140" y="240" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZyRGpIHOSIbv2tQFG93P-16" value="时间影响" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;shadow=1;fontStyle=0;dashed=1;gradientColor=#fee59a;dashPattern=8 8;direction=east;fontSize=16;" parent="ZyRGpIHOSIbv2tQFG93P-1" vertex="1">
-          <mxGeometry x="260" y="100" width="90" height="35" as="geometry" />
+        <mxCell id="ZyRGpIHOSIbv2tQFG93P-16" value="时间影响" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;shadow=1;fontStyle=0;dashed=1;gradientColor=#fee59a;dashPattern=8 8;direction=east;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" parent="ZyRGpIHOSIbv2tQFG93P-1" vertex="1">
+          <mxGeometry x="140" y="170" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ZyRGpIHOSIbv2tQFG93P-17" value="重构与评价" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="620" y="360" width="330" height="610" as="geometry" />
+          <mxGeometry x="580" y="360" width="330" height="610" as="geometry" />
         </mxCell>
         <mxCell id="ZyRGpIHOSIbv2tQFG93P-18" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fillColor=#b1ddf0;strokeColor=#10739e;rotation=-90;fontSize=16;" parent="ZyRGpIHOSIbv2tQFG93P-17" vertex="1">
           <mxGeometry x="-125.62" y="291.88" width="386.25" height="95" as="geometry" />
@@ -84,7 +84,7 @@
           <mxGeometry x="300" y="350" width="30" height="137.5" as="geometry" />
         </mxCell>
         <mxCell id="ZyRGpIHOSIbv2tQFG93P-27" value="数据集" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="170" y="360" width="460" height="610" as="geometry" />
+          <mxGeometry x="170" y="360" width="410" height="610" as="geometry" />
         </mxCell>
         <mxCell id="ZyRGpIHOSIbv2tQFG93P-28" value="&lt;span style=&quot;font-weight: 700; text-wrap: nowrap; font-size: 16px;&quot;&gt;基本流程&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontSize=16;" parent="ZyRGpIHOSIbv2tQFG93P-27" vertex="1">
           <mxGeometry y="160" width="20" height="60" as="geometry" />
